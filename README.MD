@@ -6,3 +6,4 @@
 - https://sathishvj.medium.com/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30
 - http://www.itcheerup.net/2020/07/how-to-pass-the-gcp-professional-cloud-architect-certification/
 - https://www.linkedin.com/pulse/how-prepare-google-cloud-professional-architect-exam-khan
+- https://analyticsindiamag.com/how-to-prepare-for-google-cloud-architect-certification-exam/
