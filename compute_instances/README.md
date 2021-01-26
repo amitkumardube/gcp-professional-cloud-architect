@@ -11,7 +11,11 @@
 - No timeout value
 - The application is deployed at container
 
-# Cloud Endpoints
+# API Management
+<b> Cloud Endpoints </b>
 
 - This is to support the API management and configuration.
 - This supports applications running in compute engine, kubernetes engine and app engine flexible.
+
+<b> APIGEE </b>
+- Supports Analytics
