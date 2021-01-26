@@ -17,5 +17,5 @@
 - This is to support the API management and configuration.
 - This supports applications running in compute engine, kubernetes engine and app engine flexible.
 
-<b> APIGEE </b>
+<b> APIGEE Edge</b>
 - Supports Analytics
