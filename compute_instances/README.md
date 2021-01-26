@@ -10,3 +10,7 @@
 - No constraints like app engine standard
 - No timeout value
 - The application is deployed at container
+
+# Cloud Endpoints
+
+- This is to support the API management and configuration.
