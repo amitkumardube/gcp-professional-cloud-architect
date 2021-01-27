@@ -19,3 +19,12 @@
 
 <b> APIGEE Edge</b>
 - Supports Analytics
+
+
+Cloud Functions
+- HTTP Trigger
+- Storage Event Trigger
+- PubSub trigger
+
+<b>The command to make an HTTP call to cloud function. This function will be triggered like a web hook for each http call</b>
+curl https://us-central1-crud-302820.cloudfunctions.net/HelloHTTP -H "Authorization: bearer $(gcloud auth print-identity-token)"

@@ -7,3 +7,5 @@
 - Big Query
 	- It's a OLAP system which can process very large volume of data at very lower price. it's a managed service. You pay for data storage and data processing. You only pprocessing if you use the instance. The price for data storage is seperate
 	- You can load data into big query from cloud storage or cloud datastore.
+- Cloud Pub/Sub
+	- it's a messaging service.
